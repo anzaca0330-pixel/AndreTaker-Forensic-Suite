@@ -2,6 +2,7 @@
 **Multimodal DFIR Analysis, Binary Inspection, Benford 2BL Metrology & CyberDefense Command Center**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23188146.svg)](https://doi.org/10.5281/zenodo.23188146)
 [![AI Studio Challenge](https://img.shields.io/badge/Google_AI_Studio-Competitor_Challenge-4285F4?logo=google&logoColor=white)](https://ai.studio/apps/67688420-f6da-4ea8-a7a0-c9d9048b0604)
 [![Gemini](https://img.shields.io/badge/Powered_by-Gemini_Multimodal-orange?logo=google-gemini&logoColor=white)](https://ai.google.dev/)
 [![Digital Forensics](https://img.shields.io/badge/DFIR-ISO%2FIEC_27037-red.svg)](https://www.iso.org/standard/44381.html)
