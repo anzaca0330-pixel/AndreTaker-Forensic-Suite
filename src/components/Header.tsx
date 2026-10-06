@@ -189,6 +189,20 @@ export const Header: React.FC<HeaderProps> = ({
                   </span>
                   {language === "EN" && <Check className="w-3.5 h-3.5 text-[#58a6ff]" />}
                 </button>
+                <button
+                  onClick={() => {
+                    setLanguage("FR");
+                    setShowLangMenu(false);
+                  }}
+                  className={`w-full px-3 py-1.5 flex items-center justify-between text-left hover:bg-[#21262d] cursor-pointer ${
+                    language === "FR" ? "text-[#58a6ff] font-bold bg-[#1f6feb15]" : "text-[#c9d1d9]"
+                  }`}
+                >
+                  <span className="flex items-center gap-1.5">
+                    <span>🇨🇦</span> Français
+                  </span>
+                  {language === "FR" && <Check className="w-3.5 h-3.5 text-[#58a6ff]" />}
+                </button>
               </div>
             )}
           </div>

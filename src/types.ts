@@ -174,7 +174,7 @@ export interface ChatMessage {
 
 export type ActiveEngineCore = "ANALYSIS" | "CYBERSECURITY";
 
-export type Language = "ES" | "EN";
+export type Language = "ES" | "EN" | "FR";
 
 export interface CoreEngineConfig {
   activeCore: ActiveEngineCore;

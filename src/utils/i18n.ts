@@ -24,6 +24,7 @@ export interface Translations {
   languageBtn: string;
   langEs: string;
   langEn: string;
+  langFr: string;
   
   // Core Switcher
   activeCoreIndicator: string;
@@ -87,6 +88,7 @@ export const translations: Record<Language, Translations> = {
     languageBtn: "Idioma",
     langEs: "Español",
     langEn: "English",
+    langFr: "Français",
 
     activeCoreIndicator: "Núcleo Operativo Seleccionado",
     core1NameLong: "🔬 Núcleo 1: Análisis Forense E-14 (Baba Yaga & Tycho Engine)",
@@ -144,6 +146,7 @@ export const translations: Record<Language, Translations> = {
     languageBtn: "Language",
     langEs: "Español",
     langEn: "English",
+    langFr: "Français",
 
     activeCoreIndicator: "Selected Operational Core",
     core1NameLong: "🔬 Core 1: E-14 Forensic Analysis (Baba Yaga & Tycho Engine)",
@@ -177,5 +180,63 @@ export const translations: Record<Language, Translations> = {
     noScarsDetected: "No structural scars or tampering vectors detected",
     scarsDetectedCount: "Identified Forensic Scars",
     footerStandard: "Digital Forensic Suite & DFIR Incident Response",
+  },
+  FR: {
+    brandSubtitle: "DFIR & Rétro-Ingénierie",
+    investigatorRole: "Enquêtrice Principale : Andrea Zabala (AnZaCa / AndreTaker)",
+    witnessCount: "75 000 Témoins Numériques",
+    core1Title: "NOYAU 1 : ANALYSE FORENSIQUE",
+    core2Title: "NOYAU 2 : CYBERDÉFENSE",
+    core1Subtitle: "Baba Yaga / Tycho • Inspecteur Binaire E-14 & PDF",
+    core2Subtitle: "Antigravity Shield • Réponse DFIR, Protocole Rootkit & Coffres 677 Go",
+    lightweightMode: "Mode Léger",
+    lightweightOn: "ACTIVÉ",
+    lightweightOff: "DÉSACTIVÉ",
+    lightweightTooltip: "Mode Léger : Réduit l'empreinte mémoire vive et optimise les performances du navigateur",
+    activeEngine: "Moteur Actif :",
+    samplesLabel: "Échantillons :",
+    analyzePdfBtn: "Analyser le PDF",
+    analyzingPdfBtn: "Analyse en cours...",
+    reportBtn: "Rapport",
+    masterDocBtn: "Doc Maître",
+    rootkitProtocolBtn: "Protocole Rootkit",
+    toolsBtn: "Outils",
+    languageBtn: "Langue",
+    langEs: "Español",
+    langEn: "English",
+    langFr: "Français",
+
+    activeCoreIndicator: "Noyau Opérationnel Sélectionné",
+    core1NameLong: "🔬 Noyau 1 : Analyse Forensique E-14 (Moteur Baba Yaga & Tycho)",
+    core2NameLong: "🛡️ Noyau 2 : Opérations Cyberdéfense & DFIR (Antigravity & Shield)",
+    switchToCore1: "Passer au Noyau Forensique 🔬",
+    switchToCore2: "Passer au Noyau Cyberdéfense 🛡️",
+
+    tabStructure: "1. Structure (XREF)",
+    tabMetadata: "2. Métadonnées",
+    tabImages: "3. Images (ELA)",
+    tabBenford: "4. Benford (2BL)",
+    tabScars: "5. Cicatrices Forensiques",
+    tabAudiences: "6. Rapport Tri-Public",
+
+    tabTimeline: "1. Chronologie Incidents DFIR",
+    tabVaults: "2. Coffres Crypto (677 Go)",
+    tabRootkitRecovery: "3. Protocole Rootkit",
+    tabTerminalCli: "4. CLI babayaga_core.py",
+    tabOracle: "5. Oracle IA (Antigravity)",
+
+    verdictTampered: "ALTÉRÉ",
+    verdictSuspicious: "SUSPECT",
+    verdictClean: "INTÈGRE",
+    riskScoreLabel: "Indice de Risque Forensique",
+    confidenceLabel: "Confiance de l'Expert",
+    viewReportAction: "Voir la Conclusion Complète",
+    askAiAction: "Consulter l'Oracle IA",
+    dropFileTitle: "Déposer un fichier PDF pour commencer l'examen forensique",
+    dropFileSubtitle: "AndreTaker (BabaYaga Core) examinera les tables XREF, métadonnées, artefacts et la Loi de Benford 2BL",
+    cleanFileMessage: "Structure standard sans altération apparente",
+    noScarsDetected: "Aucune cicatrice structurelle ni vecteur d'altération détecté",
+    scarsDetectedCount: "Cicatrices Forensiques Identifiées",
+    footerStandard: "Suite Forensique Numérique & Réponse aux Incidents DFIR",
   },
 };
