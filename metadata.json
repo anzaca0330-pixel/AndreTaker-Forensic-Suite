@@ -1,0 +1,6 @@
+{
+  "name": "AndreTaker — Forensic Suite (BabaYaga Core)",
+  "description": "AndreTaker forensic toolkit powered by BabaYaga Core for XREF structural analysis, metadata inspection, image artifact detection, Benford 2BL statistical verification, and AI expert verdicts for PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
