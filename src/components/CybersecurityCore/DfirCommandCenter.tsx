@@ -22,12 +22,34 @@ const INCIDENT_TIMELINE: SecurityIncidentEvent[] = [
     id: "evt-1",
     date: "18 Marzo 2026",
     phase: "Concepción & Génesis",
-    title: "El Sueño de Baba Yaga y Detección Temprana",
+    title: "El Sueño de Baba Yaga",
     description:
-      "La investigadora principal (AnZaCa / Kepler) conceptualiza el motor Baba Yaga para inspección profunda de bytes en actas electorales PDF.",
-    forensicVector: "Arquitectura de streams /Contents y detección de capas raster ocultas.",
-    mitigationAction: "Desarrollo del pipeline modular babayaga_core.py y métodos Devil en Python puro.",
+      "La investigadora principal Andrea Zabala experimenta el sueño premonitorio que inspira el motor Baba Yaga: la que ve en la penumbra, desentierra la verdad oculta y desmonta los vectores sintéticos.",
+    forensicVector: "Concepción de la arquitectura de inspección de bajo nivel para streams binarios.",
+    mitigationAction: "Fundamentos teóricos y primeros bocetos del ecosistema forense.",
     status: "PRESERVED",
+  },
+  {
+    id: "evt-1b",
+    date: "31 Mayo 2026",
+    phase: "Elecciones Presidenciales (1ª Vuelta)",
+    title: "Primera Vuelta Presidencial en Colombia",
+    description:
+      "Jornada electoral oficial de primera vuelta en Colombia. Activación de los primeros protocolos de monitoreo pericial y recolección de actas electorales E-14.",
+    forensicVector: "Monitoreo de transmisión y recepción de transmisiones oficiales.",
+    mitigationAction: "Inicio de captura sistemática y registro preliminar de discrepancias.",
+    status: "PRESERVED",
+  },
+  {
+    id: "evt-1c",
+    date: "01 - 06 Junio 2026",
+    phase: "Hallazgo Forense Crítico",
+    title: "Descubrimiento de Páginas en Blanco y Blind Masking",
+    description:
+      "Entre el 1 y el 6 de junio de 2026, la investigación descubre las primeras páginas deliberadamente en blanco y la técnica de blind masking (enmascaramiento ciego) en actas E-14 para ocultar la votación real.",
+    forensicVector: "Inyección de máscaras ciegas 1bpc, supresión de contenido visual y capas de superposición sintéticas.",
+    mitigationAction: "Desarrollo del extractor de streams binarios /FlateDecode y detección de deltas XREF fantasma (+2).",
+    status: "DEFENDED",
   },
   {
     id: "evt-2",

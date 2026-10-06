@@ -14,6 +14,8 @@
 | **Licencia de Código y Evidencia** | Apache 2.0 / Open Forensic Science |
 | **Estándares Aplicados** | ISO/IEC 27037 (Gestión de Evidencia Digital), NIST SP 800-86 |
 | **Inspiración de Desarrollo** | *El sueño del 18 de marzo de 2026 (BabaYaga: la que ve en la penumbra, desentierra la verdad oculta y desmonta los vectores sintéticos)* |
+| **Hito Electoral (1ª Vuelta)** | **31 de mayo de 2026** (Elecciones Presidenciales en Colombia - Inicio del monitoreo sistemático) |
+| **Descubrimiento Pericial Clave** | **1 al 6 de junio de 2026** (Identificación de páginas en blanco y técnica de *Blind Masking* / enmascaramiento ciego) |
 
 ---
 

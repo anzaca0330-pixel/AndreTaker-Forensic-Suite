@@ -13,7 +13,7 @@
 
 **AndreTaker — Forensic Suite (BaBaYaga Core)** es un sistema de grado pericial y contrainteligencia digital diseñado para auditar, desensamblar y verificar la autenticidad e integridad estructural de documentos complejos en formato PDF (con énfasis en flujos electorales y actas oficiales E-14), combinando metrología analítica de bajo nivel con el razonamiento multimodal de **Google Gemini**.
 
-Desarrollado por la investigadora **Andrea Zabala Cárcamo (AnZaCa / AndreTaker)** en el marco de la preservación de más de **147.000 documentos** y **>677 GB** de evidencia digital salvaguardada bajo estrictos estándares criptográficos **SHA-256**.
+Desarrollado por la investigadora **Andrea Zabala Cárcamo (AnZaCa / AndreTaker)**. La génesis del ecosistema se remonta al sueño del **18 de marzo de 2026**, seguido por el hito electoral de primera vuelta en Colombia el **31 de mayo de 2026**, y el descubrimiento pericial crítico entre el **1 y el 6 de junio de 2026** (identificación de páginas deliberadamente en blanco y la técnica de *Blind Masking* o enmascaramiento ciego). Todo esto en el marco de la preservación de más de **147.000 documentos** y **>677 GB** de evidencia digital salvaguardada bajo estrictos estándares criptográficos **SHA-256**.
 
 > 🏆 **Candidatura Destacada:** Proyecto presentado para el **Google AI Studio Challenge en Handshake**, demostrando el poder de la IA Generativa aplicada a la ciencia forense digital rigurosa (DFIR), la defensa de los derechos ciudadanos y la auditoría institucional independiente.
 
